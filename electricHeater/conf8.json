@@ -1,16 +1,1 @@
-{
-  "mqtt": {
-    "enable": true,
-    "server": "10.1.0.12"
-  },
-  "wifi": {
-    "ap": {
-      "enable": false
-    },
-    "sta": {
-      "enable": true,
-      "ssid": "416T",
-      "pass": "ferdamravenec"
-    }
-  }
-}
+/home/paul/Documents/mg-fs/conf8.json
